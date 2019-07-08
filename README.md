@@ -17,8 +17,12 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase.
 It will also update the product sales in the department table.
 
+![Screen Shot 2019-07-07 at 8 38 13 PM](https://user-images.githubusercontent.com/50384954/60781734-65b1de80-a0f8-11e9-9c55-464a126195f2.png)
+
 ## Technologies used
 * Node.js
 * Inquire NPM Package (https://www.npmjs.com/package/inquirer)
 * MYSQL NPM Package (https://www.npmjs.com/package/mysql)
 
+## Author
+Jessica Huynh
