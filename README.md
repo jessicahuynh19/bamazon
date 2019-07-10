@@ -17,8 +17,7 @@ However, if there is not enough of the product in stock, it will tell the user t
 If the purchase goes through, it updates the stock quantity to reflect the purchase.
 It will also update the product sales in the department table.
 
-![Animated GIF-source](https://user-images.githubusercontent.com/50384954/60948661-507bb200-a2a8-11e9-9adc-fd0256c56993.gif)
-https://gph.is/g/E1Gdovq
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/50384954/60948802-9afd2e80-a2a8-11e9-902b-0ceb3e0fc389.gif)
 
 ## Technologies used
 * Node.js
